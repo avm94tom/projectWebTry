@@ -1,0 +1,35 @@
+body{
+background-color:#364154;
+align-content: center;
+border-style: solid;
+border-color: #36c1c1;
+border-width: 0px 50px 30px 50px;
+margin:auto;
+padding: 2em 5em 40em 2em;
+}
+
+#thanks{
+  align-self: center;
+  color:white;
+  margin: auto;
+  padding:1em 6em 1em 8em;
+  font-family: Schoolbell;
+	font-size: 30px;
+	font-style: italic;
+	font-variant: small-caps;
+	font-weight: bold;
+	line-height: 60px;
+}
+
+#promise{
+  align-self: center;
+  color:white;
+  margin: auto;
+  padding:0em 3em 1em 10em;
+  font-family: Schoolbell;
+  font-size:24px;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bold;
+  line-height: 48px;
+}

@@ -1,0 +1,96 @@
+body{
+background-color:#364154;
+align-content: center;
+text-align: center;
+border-style: solid;
+border-color: #36c1c1;
+border-width: 0px 50px 30px 50px;
+margin:auto;
+padding: 2em 5em 4em 2em;
+}
+
+header {
+  color:white;
+  display: block;
+}
+
+
+#one{
+  align-self: center;
+  color:white;
+  margin: auto;
+  font-family: Schoolbell;
+	font-size: 30px;
+	font-style: italic;
+	font-variant: small-caps;
+	font-weight: bold;
+	line-height: 60px;
+}
+
+#two{
+  align-self: center;
+  color:white;
+  margin: auto;
+  font-family: Schoolbell;
+  font-size:24px;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bold;
+  line-height: 48px;
+}
+
+#p_one{
+  align-self: center;
+  text-align: center;
+  color:white;
+  margin: auto;
+}
+
+#p_two{
+  align-self: center;
+  text-align: center;
+  color:white;
+  margin: auto;
+}
+
+#three{
+  align-self: center;
+  color:white;
+  margin: auto;
+  font-family: Schoolbell;
+  font-size:18px;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bold;
+  line-height: 36px;
+}
+
+#vid{
+  align-content: center;
+  margin: auto;
+  width:1000px;
+  height:500px;
+}
+
+form{
+  font-size: 1.5em;
+  align-self: center;
+  color:white;
+  margin: auto;
+}
+
+#sub{
+  background-color: #f44242;
+  height: 80px;
+  width: 150px;
+  margin:4px;
+  margin-top:5px;
+  font-size:1em;
+  border-radius:25px;
+}
+
+footer {
+  color:white;
+  text-align: center;
+  display: block;
+}
